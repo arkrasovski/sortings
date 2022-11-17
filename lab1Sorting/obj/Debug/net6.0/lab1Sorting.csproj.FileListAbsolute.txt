@@ -1,0 +1,15 @@
+E:\Studies\projects\lab1Sorting\lab1Sorting\bin\Debug\net6.0\lab1Sorting.exe
+E:\Studies\projects\lab1Sorting\lab1Sorting\bin\Debug\net6.0\lab1Sorting.deps.json
+E:\Studies\projects\lab1Sorting\lab1Sorting\bin\Debug\net6.0\lab1Sorting.runtimeconfig.json
+E:\Studies\projects\lab1Sorting\lab1Sorting\bin\Debug\net6.0\lab1Sorting.dll
+E:\Studies\projects\lab1Sorting\lab1Sorting\bin\Debug\net6.0\lab1Sorting.pdb
+E:\Studies\projects\lab1Sorting\lab1Sorting\obj\Debug\net6.0\lab1Sorting.csproj.AssemblyReference.cache
+E:\Studies\projects\lab1Sorting\lab1Sorting\obj\Debug\net6.0\lab1Sorting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\projects\lab1Sorting\lab1Sorting\obj\Debug\net6.0\lab1Sorting.AssemblyInfoInputs.cache
+E:\Studies\projects\lab1Sorting\lab1Sorting\obj\Debug\net6.0\lab1Sorting.AssemblyInfo.cs
+E:\Studies\projects\lab1Sorting\lab1Sorting\obj\Debug\net6.0\lab1Sorting.csproj.CoreCompileInputs.cache
+E:\Studies\projects\lab1Sorting\lab1Sorting\obj\Debug\net6.0\lab1Sorting.dll
+E:\Studies\projects\lab1Sorting\lab1Sorting\obj\Debug\net6.0\refint\lab1Sorting.dll
+E:\Studies\projects\lab1Sorting\lab1Sorting\obj\Debug\net6.0\lab1Sorting.pdb
+E:\Studies\projects\lab1Sorting\lab1Sorting\obj\Debug\net6.0\lab1Sorting.genruntimeconfig.cache
+E:\Studies\projects\lab1Sorting\lab1Sorting\obj\Debug\net6.0\ref\lab1Sorting.dll
